@@ -43,6 +43,12 @@ body {
   bottom: 30px;
   left: calc(50% - 100px);
 }
+#camera--upload {
+  position: fixed;
+  z-index: 3;
+  bottom: 10px;
+  left: calc(50% - 100px);
+}
 
 .taken {
   height: 100px !important;
